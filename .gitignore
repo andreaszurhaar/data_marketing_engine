@@ -1,0 +1,17 @@
+# Secrets & credentials
+.env
+*.json
+
+# Python
+__pycache__/
+.venv/
+
+# Local data exports
+data/*.json
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
